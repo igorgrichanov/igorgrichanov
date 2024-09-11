@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there, I'm Igor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Student of Tomsk Polytechnic University, junior Golang-developer</h3>
+<h3 align="center">Student of Tomsk Polytechnic University, Go developer</h3>
 
 <!--
 **igorgrichanov/igorgrichanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
